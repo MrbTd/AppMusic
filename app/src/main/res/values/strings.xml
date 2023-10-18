@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppMusic</string>
+    <string name="play_music_btn">Jouer le son</string>
+    <string name="pause_music_btn">Mettre en pause le son</string>
+</resources>
